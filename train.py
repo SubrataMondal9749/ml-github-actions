@@ -52,3 +52,5 @@ if __name__ == "__main__":
     print("Model training completed successfully.")
     print(f"Test accuracy: {accuracy:.2%}")
     print("Model saved as model.pkl")
+
+print("Code Executed")
